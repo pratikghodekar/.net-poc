@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <p>Hello CitiusTech</p>
+    <p><b>Hello CitiusTech</b></p>
     <h3>This is DevOps Team</h3>
 </asp:Content>
