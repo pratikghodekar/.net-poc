@@ -4,5 +4,5 @@
     <h2><%: Title %>.</h2>
     <p><b>Hello CitiusTech</b></p>
     <h3>This is DevOps Team</h3>
-    <h3>This is new demo</h3>
+    
 </asp:Content>
